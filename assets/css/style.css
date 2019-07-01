@@ -71,8 +71,9 @@ p {
   }
 }
 
-
-
+canvas {
+  background-color: #000;
+}
 
 /* ---- components ---- */
 
